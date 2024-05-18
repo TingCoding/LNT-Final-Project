@@ -1,0 +1,16 @@
+.contactUs {
+    margin-top: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactUs .card h1 {
+    text-align: center;
+}
+
+#form {
+    display: grid;
+    place-items: center;
+}
